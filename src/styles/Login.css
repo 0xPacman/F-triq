@@ -48,6 +48,8 @@
 	margin-bottom: 10px;
 	outline: none;
 	font-family: 'Poppins', sans-serif;
+	background: #292929;
+	border: 0;
 }
 
 .login_button {
