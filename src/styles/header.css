@@ -1,0 +1,41 @@
+
+header {
+	position: absolute;
+	width: 70%;
+	height: 66px;
+	left: calc((100% - 70%) / 2);
+	top: 25px;
+	background: #1E1E1E;
+	color: #eee;
+	border-radius: 12px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	z-index: 999;
+}
+
+.circle {
+	width: 32px;
+	height: 31px;
+	background: #466347;
+	border-radius: 50%;
+	margin-top: -11px;
+}
+
+.name {
+	margin-left: -16px;
+	font-size: 25px;
+}
+
+.logo {
+	display: flex;
+	align-items: center;
+	padding-left: 20px;
+	font-family: 'Genos', sans-serif !important;
+}
+
+.menu {
+	display: flex;
+	align-items: center;
+	padding-right: 20px;
+}
