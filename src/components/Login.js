@@ -28,7 +28,6 @@ function Login(props) {
 					<input type='password' placeholder='Password' />
 					<button className='login_button' onClick={() => 
 						{
-							console.log(props)
 							props.set_email(document.getElementById('email').value)
 						}
 					}>Login</button>
