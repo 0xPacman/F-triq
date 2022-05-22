@@ -1,3 +1,5 @@
+// as a result of two days experiance : ensa khouribga seems like the worst IT school out there.
+
 import React, { useState, useEffect } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, Polyline} from 'react-leaflet'
 import {Icon} from 'leaflet';
@@ -106,3 +108,6 @@ function App() {
 }
 
 export default App;
+
+
+
