@@ -1,34 +1,3 @@
-
-Conversation opened. 8 messages. All messages read.
-
-Skip to content
-Using Gmail with screen readers
-4 of 1,843
-IMPORTANT : OpenHack 2022
-Inbox
-
-OpenSource Hack
-Sun, 15 May, 03:20 (7 days ago)
-Cher(e) candidat, Chaque année, l’école nationale des sciences appliquées de Khouribga organise l’évènement Open Source Days du département informatique qui reg
-5
-
-Ahmed Jadani <ahmed4star@gmail.com>
-Attachments
-Tue, 17 May, 15:14 (5 days ago)
-to OpenSource
-
-This is our prototype: https://www.figma.com/file/UzSCxtq17G8UjdsIAfsXyX/F'triq?node-id=0%3A1
-and i will attach the slides and the codes (the algorithm is not fully finished yet)
-
-5 Attachments
-
-Ahmed Jadani <ahmed4star@gmail.com>
-Tue, 17 May, 16:14 (5 days ago)
-to OpenSource
-
-here is the website: https://f-triq.vercel.app/
-
-enter any email and password and you will be inside the platform.
 import sys
 import os
 import time
