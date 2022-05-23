@@ -179,8 +179,7 @@ print('==========================')
 
 # Dijkstra(stations, schools, num_stations, num_schools)
     
-SBRP.py
-Displaying SBRP.py.
+# SBRP.py
 
 
 ## i didn't finish the algorithm because the time wasn't enough, this has done in less than 10h. but the judge didn't even bother asking about the code or the algorithm.
