@@ -87,7 +87,7 @@ function App() {
 						</Marker>
 						<Marker position={[32.88007911781138, -6.901277594770779]} icon={bus_icon}>
 							<Popup>
-								Buss
+								Bus
 							</Popup>
 						</Marker>
 						{all_stations()}
